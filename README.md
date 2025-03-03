@@ -12,3 +12,5 @@
 <img alt="RL: State-action-next state-reward" src="./Media/RL-MDP-fig-1.jpg" width="50%">
 <figcaption>Figure 2. The agent at state s<sub>t</sub> takes action a<sub>t</sub>. Then, the environment goes to state s<sub>t+1</sub> and gives reward r<sub>t+1</sub>.</figcaption>
 </figure>
+
+3) **Returns, policy, and value functions** Return is the discounted accumulated rewards that an agent receives over time. The policy is a strategy that the agent uses to select its action at each state. The value functions are the expected returns. We review these technical terms and give an example in Python. 

@@ -15,3 +15,4 @@
 <hr>
 
 3) **Returns, policy, and value functions** Return is the discounted accumulated rewards that an agent receives over time. The policy is a strategy that the agent uses to select its action at each state. The value functions are the expected returns. We review these technical terms and give an example in Python. 
+4) **Bellman equations, Bellman optimality equations, and optimal policy:** With the Bellman equations, we get the Bellman optimality equations. With the Bellman optimality equations, we are able to estimate the optimal value functions. Consequently, the optimal policy can be obtained from the optimal value functions. This is one way to solve an RL problem. Here, a Python code is available for using Bellman optimality equation of state-value function. It is reminded that the Python code is a bit advanced at this stage. 
